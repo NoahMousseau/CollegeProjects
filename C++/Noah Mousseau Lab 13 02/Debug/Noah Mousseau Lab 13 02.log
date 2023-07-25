@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\noahm\source\repos\Noah Mousseau Lab 13 02\Main.cpp(33,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\noahm\source\repos\Noah Mousseau Lab 13 02\Main.cpp(66,10): warning C4553: '==': result of expression not used; did you intend '='?
+  Noah Mousseau Lab 13 02.vcxproj -> C:\Users\noahm\source\repos\Noah Mousseau Lab 13 02\Debug\Noah Mousseau Lab 13 02.exe
