@@ -1,0 +1,5 @@
+﻿  SquareLib.cpp
+Main.obj : error LNK2019: unresolved external symbol "void __cdecl doubleLength_2(class Square &)" (?doubleLength_2@@YAXAAVSquare@@@Z) referenced in function _main
+    Hint on symbols that are defined and could potentially match:
+      "void __cdecl doubleLength_2(class Square)" (?doubleLength_2@@YAXVSquare@@@Z)
+C:\Users\noahm\source\repos\Noah Mousseau Lab 05 02\Debug\Noah Mousseau Lab 05 02.exe : fatal error LNK1120: 1 unresolved externals
