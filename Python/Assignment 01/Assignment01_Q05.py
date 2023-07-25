@@ -1,0 +1,18 @@
+import turtle
+wn = turtle.Screen()
+myTurtle=turtle.Turtle()
+for x in range (200,100,-10):
+    myTurtle.forward(x)
+    myTurtle.left(90)
+    myTurtle.forward(x)
+    myTurtle.left(90)
+    myTurtle.forward(x)
+    myTurtle.left(90)
+    myTurtle.forward(x)
+    myTurtle.left(90)
+    myTurtle.forward(5)
+    myTurtle.left(90)
+    myTurtle.penup()
+    myTurtle.forward(5)
+    myTurtle.right(90)
+    myTurtle.pendown()
