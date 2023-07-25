@@ -1,0 +1,7 @@
+﻿  Noah Mousseau - Lab 9 - Blackjack.cpp
+C:\Users\noahm\source\repos\Noah Mousseau - Lab 9 - Blackjack\Noah Mousseau - Lab 9 - Blackjack.cpp(17,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\noahm\source\repos\Noah Mousseau - Lab 9 - Blackjack\Noah Mousseau - Lab 9 - Blackjack.cpp(23,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\noahm\source\repos\Noah Mousseau - Lab 9 - Blackjack\Noah Mousseau - Lab 9 - Blackjack.cpp(28,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\noahm\source\repos\Noah Mousseau - Lab 9 - Blackjack\Noah Mousseau - Lab 9 - Blackjack.cpp(38,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\noahm\source\repos\Noah Mousseau - Lab 9 - Blackjack\Noah Mousseau - Lab 9 - Blackjack.cpp(43,23): warning C4018: '<': signed/unsigned mismatch
+  Noah Mousseau - Lab 9 - Blackjack.vcxproj -> C:\Users\noahm\source\repos\Noah Mousseau - Lab 9 - Blackjack\Debug\Noah Mousseau - Lab 9 - Blackjack.exe
