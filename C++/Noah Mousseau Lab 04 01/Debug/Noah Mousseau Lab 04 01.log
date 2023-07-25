@@ -1,0 +1,7 @@
+﻿  CircleCylinder.cpp
+C:\Users\noahm\source\repos\Noah Mousseau Lab 04 01\CircleCylinder.cpp(16,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\noahm\source\repos\Noah Mousseau Lab 04 01\CircleCylinder.cpp(36,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\noahm\source\repos\Noah Mousseau Lab 04 01\CircleCylinder.cpp(40,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Main.cpp
+  Generating Code...
+  Noah Mousseau Lab 04 01.vcxproj -> C:\Users\noahm\source\repos\Noah Mousseau Lab 04 01\Debug\Noah Mousseau Lab 04 01.exe
