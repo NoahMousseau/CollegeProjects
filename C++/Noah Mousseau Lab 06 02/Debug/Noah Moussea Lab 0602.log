@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Noah Moussea Lab 0602.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CourseGrade.cpp
+  Main.cpp
+  Generating Code...
+C:\Users\noahm\source\repos\Noah Mousseau Lab 0602\Main.cpp(19): warning C4715: 'maximumGrade': not all control paths return a value
+  Noah Moussea Lab 0602.vcxproj -> C:\Users\noahm\source\repos\Noah Mousseau Lab 0602\Debug\Noah Mousseau Lab 0602.exe
