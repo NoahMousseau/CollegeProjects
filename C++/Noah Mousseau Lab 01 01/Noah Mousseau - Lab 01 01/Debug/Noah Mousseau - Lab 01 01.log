@@ -1,0 +1,4 @@
+﻿  ConversionTools.cpp
+C:\Users\noahm\source\repos\Noah Mousseau - Lab 01 01\Noah Mousseau - Lab 01 01\ConversionTools.cpp(5,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\noahm\source\repos\Noah Mousseau - Lab 01 01\Noah Mousseau - Lab 01 01\ConversionTools.cpp(11,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Noah Mousseau - Lab 01 01.vcxproj -> C:\Users\noahm\source\repos\Noah Mousseau - Lab 01 01\Debug\Noah Mousseau - Lab 01 01.exe
