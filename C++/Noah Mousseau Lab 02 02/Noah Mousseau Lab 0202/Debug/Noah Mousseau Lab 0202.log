@@ -1,0 +1,4 @@
+﻿  CircleStr.cpp
+C:\Users\noahm\source\repos\Noah Mousseau Lab 0202\Noah Mousseau Lab 0202\CircleStr.cpp(11,23): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\noahm\source\repos\Noah Mousseau Lab 0202\Noah Mousseau Lab 0202\CircleStr.cpp(12,23): warning C4305: '=': truncation from 'double' to 'float'
+  Noah Mousseau Lab 0202.vcxproj -> C:\Users\noahm\source\repos\Noah Mousseau Lab 0202\Debug\Noah Mousseau Lab 0202.exe
