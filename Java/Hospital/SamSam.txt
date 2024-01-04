@@ -1,0 +1,10 @@
+Patient: Sam Sam
+ID: 26789654
+Attending Physician: John Wayne Cardiologist
+Admit Date: 22-3-2021
+Discharge Date: 25-3-2021
+Pharmacy Charges: $ 245.5
+Room Charges: $ 2500.25
+Doctor's Fees: $ 3550.75
+______________________________
+Total Charges: $ 6296.5
