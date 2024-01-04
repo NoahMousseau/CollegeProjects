@@ -1,0 +1,5 @@
+﻿  Date.cpp
+C:\Users\noahm\source\repos\Comp Sci 2\Noah Mousseau CSC2200 Lab 3 InClass\Date.h(14,9): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\noahm\source\repos\Comp Sci 2\Noah Mousseau CSC2200 Lab 3 InClass\Date.cpp(46,62): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\noahm\source\repos\Comp Sci 2\Noah Mousseau CSC2200 Lab 3 InClass\Date.cpp(34): warning C4715: 'Date::daysInMonth': not all control paths return a value
+  Noah Mousseau CSC2200 Lab 3 InClass.vcxproj -> C:\Users\noahm\source\repos\Comp Sci 2\Noah Mousseau CSC2200 Lab 3 InClass\Debug\Noah Mousseau CSC2200 Lab 3 InClass.exe
