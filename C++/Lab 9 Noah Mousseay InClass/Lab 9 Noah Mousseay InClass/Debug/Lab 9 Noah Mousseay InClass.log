@@ -1,0 +1,22 @@
+﻿  BSTree.cpp
+C:\Users\noahm\source\repos\Lab 9 Noah Mousseay InClass\Lab 9 Noah Mousseay InClass\BSTree.cpp(27,33): error C2039: 'copyTree': is not a member of 'BSTree<DataType,KeyType>'
+C:\Users\noahm\source\repos\Lab 9 Noah Mousseay InClass\Lab 9 Noah Mousseay InClass\BSTree.cpp(27,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\noahm\source\repos\Lab 9 Noah Mousseay InClass\Lab 9 Noah Mousseay InClass\BSTree.cpp(58,33): error C2039: 'clearHelper': is not a member of 'BSTree<DataType,KeyType>'
+C:\Users\noahm\source\repos\Lab 9 Noah Mousseay InClass\Lab 9 Noah Mousseay InClass\BSTree.cpp(58,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\noahm\source\repos\Lab 9 Noah Mousseay InClass\Lab 9 Noah Mousseay InClass\BSTree.cpp(82,33): error C2039: 'insertHelper': is not a member of 'BSTree<DataType,KeyType>'
+C:\Users\noahm\source\repos\Lab 9 Noah Mousseay InClass\Lab 9 Noah Mousseay InClass\BSTree.cpp(82,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\noahm\source\repos\Lab 9 Noah Mousseay InClass\Lab 9 Noah Mousseay InClass\BSTree.cpp(116,33): error C2995: 'void BSTree<DataType,KeyType>::clear(void)': function template has already been defined
+C:\Users\noahm\source\repos\Lab 9 Noah Mousseay InClass\Lab 9 Noah Mousseay InClass\BSTree.h(39): message : see declaration of 'BSTree<DataType,KeyType>::clear'
+C:\Users\noahm\source\repos\Lab 9 Noah Mousseay InClass\Lab 9 Noah Mousseay InClass\BSTree.cpp(144,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  show9.cpp
+  test9.cpp
+C:\Users\noahm\source\repos\Lab 9 Noah Mousseay InClass\Lab 9 Noah Mousseay InClass\BSTree.cpp(27,33): error C2039: 'copyTree': is not a member of 'BSTree<DataType,KeyType>'
+C:\Users\noahm\source\repos\Lab 9 Noah Mousseay InClass\Lab 9 Noah Mousseay InClass\BSTree.cpp(27,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\noahm\source\repos\Lab 9 Noah Mousseay InClass\Lab 9 Noah Mousseay InClass\BSTree.cpp(58,33): error C2039: 'clearHelper': is not a member of 'BSTree<DataType,KeyType>'
+C:\Users\noahm\source\repos\Lab 9 Noah Mousseay InClass\Lab 9 Noah Mousseay InClass\BSTree.cpp(58,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\noahm\source\repos\Lab 9 Noah Mousseay InClass\Lab 9 Noah Mousseay InClass\BSTree.cpp(82,33): error C2039: 'insertHelper': is not a member of 'BSTree<DataType,KeyType>'
+C:\Users\noahm\source\repos\Lab 9 Noah Mousseay InClass\Lab 9 Noah Mousseay InClass\BSTree.cpp(82,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\noahm\source\repos\Lab 9 Noah Mousseay InClass\Lab 9 Noah Mousseay InClass\BSTree.cpp(116,33): error C2995: 'void BSTree<DataType,KeyType>::clear(void)': function template has already been defined
+C:\Users\noahm\source\repos\Lab 9 Noah Mousseay InClass\Lab 9 Noah Mousseay InClass\BSTree.h(39): message : see declaration of 'BSTree<DataType,KeyType>::clear'
+C:\Users\noahm\source\repos\Lab 9 Noah Mousseay InClass\Lab 9 Noah Mousseay InClass\BSTree.cpp(144,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
