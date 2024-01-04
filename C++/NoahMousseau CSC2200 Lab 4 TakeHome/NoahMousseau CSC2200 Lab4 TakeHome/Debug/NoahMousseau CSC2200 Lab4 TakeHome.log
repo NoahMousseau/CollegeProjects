@@ -1,0 +1,23 @@
+﻿  test3.cpp
+C:\Users\noahm\source\repos\Comp Sci 2\NoahMousseau CSC2200 Lab 4 TakeHome\NoahMousseau CSC2200 Lab4 TakeHome\ListArray.cpp(43,1): warning C5043: 'List<DataType>::insert': exception specification does not match previous declaration
+C:\Users\noahm\source\repos\Comp Sci 2\NoahMousseau CSC2200 Lab 4 TakeHome\NoahMousseau CSC2200 Lab4 TakeHome\ListArray.h(37): message : see declaration of 'List<DataType>::insert'
+C:\Users\noahm\source\repos\Comp Sci 2\NoahMousseau CSC2200 Lab 4 TakeHome\NoahMousseau CSC2200 Lab4 TakeHome\ListArray.cpp(63,1): warning C5043: 'List<DataType>::remove': exception specification does not match previous declaration
+C:\Users\noahm\source\repos\Comp Sci 2\NoahMousseau CSC2200 Lab 4 TakeHome\NoahMousseau CSC2200 Lab4 TakeHome\ListArray.h(39): message : see declaration of 'List<DataType>::remove'
+C:\Users\noahm\source\repos\Comp Sci 2\NoahMousseau CSC2200 Lab 4 TakeHome\NoahMousseau CSC2200 Lab4 TakeHome\ListArray.cpp(80,1): warning C5043: 'List<DataType>::replace': exception specification does not match previous declaration
+C:\Users\noahm\source\repos\Comp Sci 2\NoahMousseau CSC2200 Lab 4 TakeHome\NoahMousseau CSC2200 Lab4 TakeHome\ListArray.h(40): message : see declaration of 'List<DataType>::replace'
+C:\Users\noahm\source\repos\Comp Sci 2\NoahMousseau CSC2200 Lab 4 TakeHome\NoahMousseau CSC2200 Lab4 TakeHome\ListArray.cpp(105,1): warning C5043: 'List<DataType>::gotoBeginning': exception specification does not match previous declaration
+C:\Users\noahm\source\repos\Comp Sci 2\NoahMousseau CSC2200 Lab 4 TakeHome\NoahMousseau CSC2200 Lab4 TakeHome\ListArray.h(49): message : see declaration of 'List<DataType>::gotoBeginning'
+C:\Users\noahm\source\repos\Comp Sci 2\NoahMousseau CSC2200 Lab 4 TakeHome\NoahMousseau CSC2200 Lab4 TakeHome\ListArray.cpp(112,1): warning C5043: 'List<DataType>::gotoEnd': exception specification does not match previous declaration
+C:\Users\noahm\source\repos\Comp Sci 2\NoahMousseau CSC2200 Lab 4 TakeHome\NoahMousseau CSC2200 Lab4 TakeHome\ListArray.h(51): message : see declaration of 'List<DataType>::gotoEnd'
+C:\Users\noahm\source\repos\Comp Sci 2\NoahMousseau CSC2200 Lab 4 TakeHome\NoahMousseau CSC2200 Lab4 TakeHome\ListArray.cpp(119,1): warning C5043: 'List<DataType>::gotoNext': exception specification does not match previous declaration
+C:\Users\noahm\source\repos\Comp Sci 2\NoahMousseau CSC2200 Lab 4 TakeHome\NoahMousseau CSC2200 Lab4 TakeHome\ListArray.h(53): message : see declaration of 'List<DataType>::gotoNext'
+C:\Users\noahm\source\repos\Comp Sci 2\NoahMousseau CSC2200 Lab 4 TakeHome\NoahMousseau CSC2200 Lab4 TakeHome\ListArray.cpp(128,1): warning C5043: 'List<DataType>::gotoPrior': exception specification does not match previous declaration
+C:\Users\noahm\source\repos\Comp Sci 2\NoahMousseau CSC2200 Lab 4 TakeHome\NoahMousseau CSC2200 Lab4 TakeHome\ListArray.h(55): message : see declaration of 'List<DataType>::gotoPrior'
+C:\Users\noahm\source\repos\Comp Sci 2\NoahMousseau CSC2200 Lab 4 TakeHome\NoahMousseau CSC2200 Lab4 TakeHome\ListArray.cpp(137,1): warning C5043: 'List<DataType>::getCursor': exception specification does not match previous declaration
+C:\Users\noahm\source\repos\Comp Sci 2\NoahMousseau CSC2200 Lab 4 TakeHome\NoahMousseau CSC2200 Lab4 TakeHome\ListArray.h(57): message : see declaration of 'List<DataType>::getCursor'
+C:\Users\noahm\source\repos\Comp Sci 2\NoahMousseau CSC2200 Lab 4 TakeHome\NoahMousseau CSC2200 Lab4 TakeHome\test3.cpp(183,44): error C2664: 'void showTwoLists(List<char>,List<char>)': cannot convert argument 1 from 'List<int>' to 'List<char>'
+C:\Users\noahm\source\repos\Comp Sci 2\NoahMousseau CSC2200 Lab 4 TakeHome\NoahMousseau CSC2200 Lab4 TakeHome\test3.cpp(183,26): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Users\noahm\source\repos\Comp Sci 2\NoahMousseau CSC2200 Lab 4 TakeHome\NoahMousseau CSC2200 Lab4 TakeHome\test3.cpp(19,6): message : see declaration of 'showTwoLists'
+C:\Users\noahm\source\repos\Comp Sci 2\NoahMousseau CSC2200 Lab 4 TakeHome\NoahMousseau CSC2200 Lab4 TakeHome\test3.cpp(188,46): error C2664: 'void showTwoLists(List<char>,List<char>)': cannot convert argument 1 from 'List<int>' to 'List<char>'
+C:\Users\noahm\source\repos\Comp Sci 2\NoahMousseau CSC2200 Lab 4 TakeHome\NoahMousseau CSC2200 Lab4 TakeHome\test3.cpp(188,26): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Users\noahm\source\repos\Comp Sci 2\NoahMousseau CSC2200 Lab 4 TakeHome\NoahMousseau CSC2200 Lab4 TakeHome\test3.cpp(19,6): message : see declaration of 'showTwoLists'
